@@ -1,0 +1,31 @@
+# Core data science libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning libraries
+scikit-learn
+xgboost
+joblib
+
+# Deep learning libraries
+tensorflow
+
+# NLP libraries
+spacy
+transformers
+datasets
+
+# Visualization and utilities
+wordcloud
+
+# Experiment tracking
+wandb
+
+# Model interpretability
+shap
+transformers-interpret
+
+# Note: After installing spacy, you need to download the English model:
+# python -m spacy download en_core_web_sm
