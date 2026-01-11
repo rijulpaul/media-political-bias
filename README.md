@@ -9,8 +9,9 @@ This project trains and evaluates NLP models to classify political bias in media
 </div>
 
 ## Project Structure:
-- [mediapoliticalbias_20.ipynb](https://github.com/rijulpaul/media-political-bias/blob/main/mediapoliticalbias_20.ipynb): Inital training and testing of multiple ML models on 20% dataset.
-- [mediapoliticalbias_distilbert_final.ipynb](https://github.com/rijulpaul/media-political-bias/blob/main/mediapoliticalbias_distilbert_final.ipynb): Final training of DistilBERT on the full dataset.
+- [mediapoliticalbias_20.ipynb](https://github.com/rijulpaul/media-political-bias/blob/main/notebooks/mediapoliticalbias_20.ipynb): Inital training and testing of multiple ML models on 20% dataset.
+- [mediapoliticalbias_distilbert.ipynb](https://github.com/rijulpaul/media-political-bias/blob/main/notebooks/mediapoliticalbias-distilbert.ipynb): Final trained DistilBERT.
+- [mediapoliticalbias_linearsvc.ipynb](https://github.com/rijulpaul/media-political-bias/blob/main/notebooks/mediapoliticalbias-linearsvc.ipynb): Final trained LinearSVC.
 
 ## Usage
 1. Open the notebook in Kaggle.
