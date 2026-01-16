@@ -2,11 +2,12 @@
 
 This project trains and evaluates NLP models to classify political bias in news articles. It uses a sample dataset (20%) for initial experimentation and DistilBERT for full-scale training.
 
-<div align="center">
-  <a href="https://huggingface.co/rijulpaul/media-political-bias" target="_blank">
+<!-- <div align="center"> -->
+  Try it on:  
+  <a href="https://huggingface.co/spaces/rijulpaul/news-political-bias" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-rijulpaul-ffc107?color=ffc107&logoColor=white" />
   </a>
-</div>
+<!-- </div> -->
 
 ## Project Structure:
 ```
